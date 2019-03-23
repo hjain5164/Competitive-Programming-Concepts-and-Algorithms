@@ -3,7 +3,6 @@
 #include <queue>
 #include <list>
 using namespace std;
-
 template <typename T>
 class Graph
 {
